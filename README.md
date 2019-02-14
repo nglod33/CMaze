@@ -1,6 +1,8 @@
 # CMaze
 Solves a given maze finding the fastest way through, assuming the entrance is at the top left and the exit at the bottom right. Sample maze will be included
 
+The maze consists of ones an zeros with spaces in between them. An example will be included in the repo
+
 Flags:
 -i Filename : used for the input mazefile, else defaults to stdin
 -o Filename: used for output file, else defaults to stdout
